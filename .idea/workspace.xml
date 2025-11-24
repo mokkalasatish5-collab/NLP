@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e1e1f9c-f6b1-4415-9641-2da100d770c8" name="Changes" comment="new cells added">
-      <change afterPath="$PROJECT_DIR$/NLP pipelines/langaugeprocesspipelines.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP pipelines/new_story.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP pipelines/pos(partsofspeech).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP pipelines/spacy vs nltk.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP pipelines/stemming and lemmatization using NLTK.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP pipelines/students.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP pipelines/tokenization.ipynb" afterDir="false" />
+    <list default="true" id="0e1e1f9c-f6b1-4415-9641-2da100d770c8" name="Changes" comment="new files added">
+      <change afterPath="$PROJECT_DIR$/NLP pipelines/BOW(Bag of Words).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP pipelines/NER(Name Entity Recognition).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP pipelines/TF-IDF.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP pipelines/n_grams_with_fake/real_classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP pipelines/stopwords.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie_review_BOW.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +71,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NLP pipelines/n_grams_with_fake" />
+      <recent name="$PROJECT_DIR$/NLP pipelines" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763876122487</updated>
-      <workItem from="1763876124177" duration="24921000" />
+      <workItem from="1763876124177" duration="40473000" />
     </task>
     <task id="LOCAL-00001" summary="new cells added">
       <option name="closed" value="true" />
@@ -97,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763886236909</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new files added">
+      <option name="closed" value="true" />
+      <created>1763933226285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763933226285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +129,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new cells added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new cells added" />
+    <MESSAGE value="new files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
