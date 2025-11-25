@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e1e1f9c-f6b1-4415-9641-2da100d770c8" name="Changes" comment="new files added">
-      <change afterPath="$PROJECT_DIR$/NLP pipelines/BOW(Bag of Words).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP pipelines/NER(Name Entity Recognition).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP pipelines/TF-IDF.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP pipelines/n_grams_with_fake/real_classification.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP pipelines/stopwords.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie_review_BOW.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP pipelines/TF-IDF exercise.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP pipelines/WORD2VEC.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP pipelines/gensim_text_classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP pipelines/word2vec_spacy_classification.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP pipelines/TF-IDF.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP pipelines/TF-IDF.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763876122487</updated>
-      <workItem from="1763876124177" duration="40473000" />
+      <workItem from="1763876124177" duration="54009000" />
     </task>
     <task id="LOCAL-00001" summary="new cells added">
       <option name="closed" value="true" />
@@ -110,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763933226285</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new files added">
+      <option name="closed" value="true" />
+      <created>1764000536673</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764000536673</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
